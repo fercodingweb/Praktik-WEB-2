@@ -1,3 +1,6 @@
+<?php
+include "connection.php"; ?>
+<!-- ...existing code... -->
 <div class="card">
     <div class="card-header">
         <strong>Data User</strong>
